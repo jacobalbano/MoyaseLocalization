@@ -48,6 +48,7 @@
         "STORAGE_IMPORT_LOCALE_MESSAGE_2": "Imported locale data will only persist until the app restarts.",
         "STORAGE_IMPORT_FINISHED": "Imported",
         "STORAGE_EXPORT_FINISHED": "Exported",
+        "STORAGE_IMPORT_ERROR": "Import did not complete",
         "STORAGE_CLEAR_CONFIRM": "Really delete all storage?",
         "SETTINGS_TITLE": "Settings",
         "SETTINGS_NEXT_DAY_START": "Next day starts at:",
