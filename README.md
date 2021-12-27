@@ -7,7 +7,6 @@ Such a request must include the following:
 - One json file (use `en-US.json` as a template)
   - The filename must be of the format that would be returned by [`Navigator.language`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/language) in a standards-compliant browser.
   - See the **[File Structure](#file-structure)** section below for further details
-- `index.js` must be amended to include the newly added json file in its default export
 - `readme.md` must be amended to include your name and a link to your github profile in the [contributors](#contributors) section
 
 By contributing, you agree to release your changes under the terms set forth in `LICENSE`.  
