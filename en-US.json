@@ -31,6 +31,7 @@
         "ITEM_ACTION_RESTORE": "Restore",
         "ITEM_ACTION_DELETE": "Delete",
         "ITEM_CHECK_IN": "Check in",
+        "ITEM_CHECK_IN_WORK": "Completed work",
         "ITEM_CHECK_IN_TOTAL": "Total",
         "ITEM_CHECK_IN_TODAY": "Today",
         "ITEM_CHECK_IN_HEADER": "{0:!DATE_PREFER_NO_YEAR}",
@@ -87,7 +88,6 @@
         "GOAL_CHART_IDEAL_REMAINING": "Ideal remaining",
         "GOAL_CHART_REMAINING": "Remaining",
         "GOAL_CHART_XAXIS_FORMAT": "{0:DATE_SHORT}",
-        "UPDATE_WORK_HEADER": "Update work",
         "DATERANGE_START_END": "{0:DATE_SHORT_WITH_YEAR}",
         "TIME_PICKER": "{0:TIME}"
     },
