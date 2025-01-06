@@ -95,7 +95,7 @@
     },
     "format": {
         "DATE_SHORT": "MMM do",
-        "DATE_SHORT_WITH_YEAR": "MMM do, Y",
+        "DATE_SHORT_WITH_YEAR": "MMM do, y",
         "TIME": "h:mm aaa",
         "CALENDAR_HEADER": "MMMM YYYY"
     },
